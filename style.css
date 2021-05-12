@@ -3,7 +3,6 @@ body{font-family: arial; font-size: 15px; line-height: 18px;background:#ECE9D8;}
 .template{width: 960px; margin:0 auto;}
 .clear{overflow: hidden;}
 
-.headersection{}
 .header{background-color: #323231;height: 80px;}
 
 .headerleft{width: 450px;color: #fff;float:left;}
@@ -33,9 +32,6 @@ body{font-family: arial; font-size: 15px; line-height: 18px;background:#ECE9D8;}
 	border-bottom:2px dotted #a8a8a8;
 			
 }
-
-
-.description p{}
 
 .contentsection{
     margin-bottom: 20px;
@@ -101,7 +97,6 @@ body{font-family: arial; font-size: 15px; line-height: 18px;background:#ECE9D8;}
 .clientdesc p{color:#666;}
 .clientdesc a{text-decoration:none;color:#00A0F1;}
 .clientname{font-weight:bold;margin-top:8px; }
-.clientname p{}
 
 .projectsection{
 	width:400px;
